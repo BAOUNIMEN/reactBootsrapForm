@@ -1,6 +1,6 @@
 body{
-    background: #98cef2; 
-    background: linear-gradient(to right, #c4e1ff, #bdc3c7); 
+    background: #eda2ed; 
+    background: linear-gradient(to right, #fbccf6, #bdc3c7); 
 }
 
 .form{
@@ -21,13 +21,11 @@ body{
     padding: 5px;
 }
 
-.Form.Label{
+.Label{
     width: 40%;
 }
 
-.form_input{
-    width: 60%;
-}
+
 
 .footer{
     text-align: center;
